@@ -9,7 +9,7 @@ defmodule Ranwords do
 
   ## Examples
 
-      iex> Randwords.generate
+      iex> Randwords.randomWordAll
       
       [
         %{
